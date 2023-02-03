@@ -1,0 +1,64 @@
+.loading{
+  position: fixed;
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.List{
+  margin-top: 500px;
+  margin-bottom:50px;
+}
+
+.imgH {
+  height:200px;
+  width:89%;
+  object-fit: contain;
+	margin: 20px;
+}
+.d-block {
+  height:200px;
+  width:89%;
+  object-fit: contain;
+	margin: 20px;
+}
+
+.errorSearch{
+  width: 100%;
+  height:500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:rgb(12, 22, 19);
+}
+
+.link  {
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+}
+
+.AddProducts{
+ 
+   display:flex;
+   flex-direction:row;
+   align-items:center;
+   justify-content:center;
+
+}
+
+.BotonAdd{
+   width:40px;
+   height:40px;
+   display:flex;
+   flex-direction:column;
+   align-items:center;
+   justify-content:center;
+}
+
